@@ -7,11 +7,12 @@ header {
     padding: 10px;
     text-align: left;
     font-family: "ABeeZee", sans-serif;
+    color: black;
 }
 body {
     text-align: center;
     background: grey;
-    color: blue;
+    color: black;
     font-family: "ABeeZee", sans-serif;
 }
 footer {
@@ -20,6 +21,7 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+    color: black;
     font-family: "ABeeZee", sans-serif;
 }
 .abeezee-regular {
