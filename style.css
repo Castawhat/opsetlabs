@@ -3,19 +3,19 @@ img {
     height: 125px;
 }
 header {
-    background: lightblue;
+    background: grey;
     padding: 10px;
     text-align: left;
     font-family: "ABeeZee", sans-serif;
 }
 body {
     text-align: center;
-    background: azure;
+    background: grey;
     color: blue;
     font-family: "ABeeZee", sans-serif;
 }
 footer {
-    background: lightblue;
+    background: grey;
     padding: 10px;
     position: fixed;
     bottom: 0;
